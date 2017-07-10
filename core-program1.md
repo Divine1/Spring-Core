@@ -1,5 +1,14 @@
 # core-program1
-This is a up and running project.It will help us to workout below features and understand it.
+
+
+This is a up and running project. It will help us to workout below features and understand clearly. 
+	####Softwate Used:
+		Java 8 
+		Eclipse neon
+		Apache maven 3.5.0
+
+
+Please note that this project doesnot contain any implementation of below features, but it just provides you the platform to verify your understanding of the features quickly.
 
 i.	How to setup a stand alone spring core application using Maven?
 
