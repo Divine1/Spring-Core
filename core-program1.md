@@ -11,23 +11,23 @@ This is a up and running project. It will help us to workout below features and 
 
 #### *Please note that this project doesnot contain any implementation of below features, but it just provides you the platform to verify your understanding of the features quickly.*
 
-i.	How to setup a stand alone spring core application using Maven?
+* How to setup a stand alone spring core application using Maven?
 
-ii. What are the different types of Dependency Injections and how it works?
+* What are the different types of Dependency Injections and how it works?
 
-	1. Setter Injection
+	* Setter Injection
 	
-	2. Contructor Injection
+	* Contructor Injection
 	
-	3. Autowire
+	* Autowire
 	
-		a. byName
+		* byName
 		
-		b. byType
+		* byType
 		
-		c. Constructor
+		* Constructor
 		
-		d. Annotation
+		* Annotation
 		
 iii.How to access property files?
 
