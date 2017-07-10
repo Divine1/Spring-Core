@@ -3,7 +3,7 @@
 
 This is a up and running project. It will help us to workout below features and understand clearly. 
 
-	####Softwate Used:
+	Softwate Used:
 		Java 8 
 		Eclipse neon
 		Apache maven 3.5.0
