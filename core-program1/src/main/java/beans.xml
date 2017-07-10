@@ -1,0 +1,17 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+    http://www.springframework.org/schema/beans 
+    http://www.springframework.org/schema/beans/spring-beans-4.3.xsd">
+
+	<bean id="sports" class="com.rw.sports.controller.SportsController" autowire="byName">
+	</bean>
+
+	<bean id="cricketSport" class="com.rw.sports.types.CricketSport">
+		<property name="team" value="india" />
+	</bean>
+
+	<bean id="footballSport" class="com.rw.sports.types.FootballSport">
+		<property name="team" value="france" />
+	</bean>
+</beans>
