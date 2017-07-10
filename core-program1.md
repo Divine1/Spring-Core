@@ -29,8 +29,8 @@ This is a up and running project. It will help us to workout below features and 
 		
 		* Annotation
 		
-iii.How to access property files?
+* How to access property files?
 
-iv.	How to create runnable jar?
+* How to create runnable jar?
 
 
