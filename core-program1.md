@@ -57,8 +57,8 @@ Beans definition for beans.xml
 Annotations
 
 ```
-<context:annotation-config />
-<context:component-scan base-package=""></context:component-scan>
+<context:annotation-config /> or <mvc:annotation-driven />
+<context:component-scan base-package=""></context:component-scan>	
 <context:property-placeholder location="classpath:application.properties"/>
 ```
 
